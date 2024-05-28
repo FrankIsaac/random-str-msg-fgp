@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-fgp",
+  "version": "1.0.0",
+  "description": "random strings messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FrankIsaac/random-str-msg-fgp.git"
+  },
+  "keywords": [],
+  "author": "Frank Geronimo <frankgeronimo2023gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FrankIsaac/random-str-msg-fgp"
+  },
+  "homepage": "https://github.com/FrankIsaac/random-str-msg-fgp#readme",
+  "bin": {
+    "random-str-msg-fgp": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
